@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Alkana",
+        "telepon": "089787653455",
+        "email": "alaska@gmail.com",
+        "durasi_sewa": "2",
+        "jenis_properti": "Rumah"
+    },
+    {
+        "nama": "Alkanaasss",
+        "telepon": "089787653455",
+        "email": "alaska@gmail.com",
+        "durasi_sewa": "2",
+        "jenis_properti": "Pavilion"
+    },
+    {
+        "nama": "Dina1",
+        "telepon": "089787653456",
+        "email": "Aliyah@gmail.com",
+        "durasi_sewa": "3",
+        "jenis_properti": "Ruko"
+    }
+]
